@@ -5,7 +5,7 @@
 The goal is to show how to create a fair, transparent society with opportunities for wealth creation and poverty alleviation.
 Global wealth inequality will always exist but poverty problem can be solved.
 
-![Global wealth distribution](resources\GlobalWealthDistribution-min.png)
+![Global wealth distribution](resources/GlobalWealthDistribution-min.png)
 
 ## Summary
 
@@ -43,7 +43,7 @@ For rent a place to live, a transportation system, pay food, clothes, goods and 
 - At the end of the 3 months, the Universal Income is completely spent by citizens or the remaining is returned to the Government.
 - After a while, the Universal Income amount spent by citizens is returned to Government in the form of VAT.
 
-![Global wealth distribution](resources\IncomeInModernSociety-min.png)
+![Global wealth distribution](resources/IncomeInModernSociety-min.png)
 
 
 ### 5 Every citizen have the choice to work or not

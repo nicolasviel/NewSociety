@@ -4,7 +4,7 @@
 
 L’objectif de ce document est de montrer comment créer une société juste et transparente offrant des opportunités de création de richesses et de suppression de la pauvreté. Les inégalités de richesse mondiales existeront toujours, mais le problème de la pauvreté peut être résolu.
 
-![Global wealth distribution](resources\GlobalWealthDistribution-FR-min.png)
+![Global wealth distribution](resources/GlobalWealthDistribution-FR-min.png)
 
 ## Résumé
 
@@ -41,7 +41,7 @@ Pour louer un logement, un système de transport, payer la nourriture, les vête
 - À la fin des 3 mois, le revenu universel est entièrement dépensé par les citoyens ou le reste est reversé au gouvernement.
 - Après un certain temps, le montant du revenu universel dépensé par les citoyens est reversé au gouvernement sous forme de TVA.
 
-![Global wealth distribution](resources\IncomeInModernSociety-min.png)
+![Global wealth distribution](resources/IncomeInModernSociety-min.png)
 
 
 ### 5 Chaque citoyen a le choix de travailler ou non
