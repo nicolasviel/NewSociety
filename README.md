@@ -12,7 +12,7 @@ Correctly used together, it is possible to create a robust set of 8 principles t
 Language | PDF | HTML 
 --- | --- | --- |
 ![English](resources/icons/en.png)  | [Download PDF](manifesto/NewSociety.pdf) |[Universal principles for a fair and prosperous society](manifesto/NewSociety.md) | 
-![French](resources/icons/fr.png) | [Download PDF](manifesto/NewSociety.pdf) | [Principes universels pour une société juste et prospère](manifesto/NewSociety-FR.md) | 
+![French](resources/icons/fr.png) | [Download PDF](manifesto/NewSociety-FR.pdf) | [Principes universels pour une société juste et prospère](manifesto/NewSociety-FR.md) | 
 
 ![The fundation pillars](resources/banners/360_F_739571695_4a6fGmiMJnKwWM2KFVYyXFutAfeJbVe7.jpg)
 
